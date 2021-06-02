@@ -12,7 +12,9 @@ function App() {
       <Hello age="23" name="Salif"></Hello>
       <Hello age="24" name="Liya"></Hello>
 
-      <Welcome></Welcome>
+      <Welcome name="class 1"></Welcome>
+      <Welcome name="class 2"></Welcome>
+      <Welcome name="class 3"></Welcome>
 
     </div>
   );
