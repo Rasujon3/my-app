@@ -8,13 +8,13 @@ function App() {
     <div className="App">
       
       <Hello age="28" name="Sujon"></Hello>
-      <Hello age="22" name="Rifat"></Hello>
+      {/* <Hello age="22" name="Rifat"></Hello>
       <Hello age="23" name="Salif"></Hello>
-      <Hello age="24" name="Liya"></Hello>
+      <Hello age="24" name="Liya"></Hello> */}
 
       <Welcome name="class 1"></Welcome>
-      <Welcome name="class 2"></Welcome>
-      <Welcome name="class 3"></Welcome>
+      {/* <Welcome name="class 2"></Welcome>
+      <Welcome name="class 3"></Welcome> */}
 
     </div>
   );
